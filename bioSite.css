@@ -1,0 +1,32 @@
+/*
+<!-- William Silknitter -->
+<!-- Prof. Sampson -->
+<!-- bioSite: Atomic level -->
+*/
+
+/* Nav Bar */
+.logo {
+    width: 100px;
+}
+
+/* Landing Page */
+
+.briPic {
+    width: 25%;
+}
+
+/* Hobbies Page */
+.h1Pic {
+    width: 200px;
+}
+.h2Pic {
+    width: 200px;
+}
+.h3Pic {
+    width: 200px;
+}
+
+/* About Page */
+.goal-pic {
+    width: 300px;
+}
