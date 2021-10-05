@@ -30,7 +30,7 @@ html, body {
 }
 
 .nvbtn {
-    margin: 0 4em 0 4em;
+    margin: 0 .75em 0 .75em;
     padding: .5rem 2rem .5rem 2rem;
     border: 2px solid #e5a19f;
     border-radius: 4px;
